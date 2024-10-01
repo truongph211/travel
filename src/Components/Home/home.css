@@ -1,0 +1,14 @@
+:root {
+  --PrimaryColor: (199, 100%, 33%);
+  --SecondaryColor: (187, 85%, 43%);
+  --gradientColor: linear-gradient(90deg, #5b87c9, #6942ef, #6554c0, #008cff, #5079b6, #6942ef);
+  --whiteColor: (0, 0%, 100%);
+  --blackColor:(201, 33%,16%);
+  --textColor: (240, 4%, 36%);
+  --whiteColorDeam:(0, 0%, 93%);
+  --greyText: (190, 190,190);
+  --inputColor:(239, 239, 239);
+  --bodyColor: (240, 240, 246);
+  --cardBG: (255, 255, 235);
+}
+/*# sourceMappingURL=home.css.map */
